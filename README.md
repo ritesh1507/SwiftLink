@@ -7,12 +7,6 @@ This is a simple real-time chat application implemented in C++ using WinSock for
 - Real-time message broadcasting to all connected clients.
 - Multithreading to handle multiple clients simultaneously.
 
-## Requirements
-
-- Windows operating system.
-- Visual Studio or any other C++ compiler that supports WinSock.
-- WinSock2 library.
-
 ## Code Overview
 
 ### Server Code
